@@ -1,2 +1,2 @@
-# drews
-trabalho de números com JS
+# Jogo de números com JavaScript
+Trabalho realizado através do Senac Erechim
